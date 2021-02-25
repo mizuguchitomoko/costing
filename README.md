@@ -14,9 +14,6 @@ HACCP導入が義務化され、事務作業が増える飲食店経営者の方
 ## 主な利用シーン
 レシピ作成・管理、原価計算
 
-## 要件定義書
-https://drive.google.com/drive/folders/1sUk-1IQdls2YBDJcHQN2yZ-27Usy7jQB
-
 ## ER図
 https://app.diagrams.net/#G1mszgyK6FSR9tOULsdMIZ_d3xYaeNLfur
 
