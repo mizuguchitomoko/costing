@@ -18,5 +18,5 @@ HACCP導入が義務化され、事務作業が増える飲食店経営者の方
 https://app.diagrams.net/#G1mszgyK6FSR9tOULsdMIZ_d3xYaeNLfur
 
 ## 開発環境
-⚫︎フレームワーク：Rubu On Rails
+⚫︎フレームワーク：Rubu On Rails<br>
 ⚫︎IDE：cloud9
