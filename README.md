@@ -17,6 +17,8 @@ HACCP導入が義務化され、事務作業が増える飲食店経営者の方
 ## 要件定義書<br>
 [costing_要件定義書.pdf](https://github.com/mizuguchitomoko/costing/files/6081826/costing_.pdf)
 
+## 機能一覧<br>
+[costing_機能一覧.pdf](https://github.com/mizuguchitomoko/costing/files/6134714/costing_.pdf)
 
 ## ER図
 https://app.diagrams.net/#G1mszgyK6FSR9tOULsdMIZ_d3xYaeNLfur
